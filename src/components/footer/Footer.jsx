@@ -14,7 +14,7 @@ const Footer = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  ib-themes
+                  Kristen Reid
                 </a>
                 . All rights reserved.
               </p>

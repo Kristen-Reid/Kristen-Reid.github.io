@@ -31,7 +31,7 @@ const AboutFour = () => {
                 <div className="text">
                   <p>
                     Full Stack Software Engineer with experience in building full stack web applications using languages,
-                    frameworks, and libraries such as React, Python, JavaScript, Flask, Express, PostgreSQL.
+                    frameworks, and libraries including React, Python, JavaScript, Flask, Express, PostgreSQL.
                     I've been one throughout the years to wear many hats. While having many job titles and working in different environments
                     I have acquired many valuable skills including 20+ years of customer service, being a part of different teams learning how to work in group environments well,
                     and being able to adapt quickly to any environment I was placed in.

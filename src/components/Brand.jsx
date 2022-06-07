@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const partnerList = ["1", "2", "3", "4", "5", "6", "7", "8"];
+const partnerList = ["python", "javascript", "react", "redux" ,"flask", "express", "nodejs", "postgresql", "aws"];
 
 export default function BrandAnimation() {
   var settings = {

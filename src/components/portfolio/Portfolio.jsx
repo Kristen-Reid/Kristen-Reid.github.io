@@ -3,51 +3,51 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
 
-const tabList = ["All", "Design", "Branding", "Photography"];
+const tabList = ["All", "React/Python", "React/Express"];
 
 const tabListContent = [
   {
     porftoliItems: [
       {
-        img: "1",
-        title: " My Story",
-        meta: "Design",
-        portfolioLink: "https://www.instagram.com/",
+        img: "Anstagram",
+        title: "Anstagram",
+        meta: "React/Python",
+        portfolioLink: "https://anstagram-ag.herokuapp.com/login",
       },
       {
-        img: "2",
-        title: "Design Trend",
-        meta: "Branding",
+        img: "ToTheMoon",
+        title: "To The Moon",
+        meta: "React/Python",
         portfolioLink:
-          "https://dribbble.com/shots/16545341-Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
+          "https://tothemoon-investment-app.herokuapp.com/",
       },
       {
-        img: "14",
-        title: "Soft Cream",
-        meta: "Photography",
+        img: "CoolDigs",
+        title: "CoolDigs",
+        meta: "React/Express",
         portfolioLink:
-          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
+          "https://cooldigs.herokuapp.com/",
       },
-      {
-        img: "22",
-        title: "Shane Design",
-        meta: "Design",
-        portfolioLink:
-          "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
-      },
-      {
-        img: "7",
-        title: " Sweet Cherry",
-        meta: "Photography",
-        portfolioLink:
-          "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
-      },
-      {
-        img: "3",
-        title: "Behance Shoot",
-        meta: "Branding",
-        portfolioLink: "https://www.behance.net/ib-themes",
-      },
+      // {
+      //   img: "22",
+      //   title: "Shane Design",
+      //   meta: "Design",
+      //   portfolioLink:
+      //     "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
+      // },
+      // {
+      //   img: "7",
+      //   title: " Sweet Cherry",
+      //   meta: "Photography",
+      //   portfolioLink:
+      //     "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
+      // },
+      // {
+      //   img: "3",
+      //   title: "Behance Shoot",
+      //   meta: "Branding",
+      //   portfolioLink: "https://www.behance.net/ib-themes",
+      // },
     ],
   },
   {
