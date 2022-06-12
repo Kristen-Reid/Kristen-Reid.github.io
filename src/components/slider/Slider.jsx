@@ -42,6 +42,11 @@ const Slider = () => {
                       </a>
                     </div>
                     <div className="social_connect">
+                      <a href="https://angel.co/u/kristen-reid-5">
+                    <img src="/img/svg/social/angellist.svg" width="30" height="30" />
+                      </a>
+                    </div>
+                    <div className="social_connect">
                       <a href="mailto:kristen.reid.swe@gmail.com">
                     <img src="/img/svg/email.svg" width="30" height="30" />
                     {/* :&nbsp; kristen.reid.swe@gmail.com */}
