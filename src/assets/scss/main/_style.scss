@@ -221,6 +221,16 @@ h6 {
   animation-delay: 2000ms;
 }
 
+.social_connect_container {
+  display: flex;
+  // justify-content: space-evenly;
+  margin-top: 20px;
+}
+
+.social_connect {
+  margin-right: 20px;
+}
+
 @keyframes lineheight {
   0% {
     height: 0%;
@@ -2164,8 +2174,8 @@ body.modal {
   color: #fff;
 }
 .shane_tm_mobalbox_contact .social li .svg {
-  width: 15px !important;
-  height: 15px !important;
+  width: 20px !important;
+  height: 20px !important;
 }
 .shane_tm_mobalbox_contact .share > span {
   display: none;
@@ -3033,6 +3043,8 @@ body.intro .loader_line:after {
   }
 }
 .job_wrap {
+  display: flex;
+  flex-direction: column;
   &.sociallo {
     margin-top: 14px;
   }

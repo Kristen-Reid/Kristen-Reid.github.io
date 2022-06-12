@@ -11,13 +11,13 @@ const Map = () => {
 
   return (
     <>
-      <div className="map">
+      {/* <div className="map">
         <ReactMapGL
           mapboxApiAccessToken="pk.eyJ1IjoiYmF5YXppZGgiLCJhIjoiY2tvemdwc3ByMDg1YzJubzQxcDR0cDR3dyJ9.s1zXEb5OPqgBDcmupj3GBA"
           {...viewport}
           onViewportChange={(nextViewport) => setViewport(nextViewport)}
         />
-      </div>
+      </div> */}
       {/* End map */}
     </>
   );

@@ -69,6 +69,7 @@ const Contact = () => {
         {/* End tokyo_tm_button */}
       </form>
       {/* End contact */}
+      
     </>
   );
 };

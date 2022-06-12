@@ -1,18 +1,18 @@
 import React from "react";
 
 const SocialShare = [
+  // {
+  //   iconName: "facebook",
+  //   link: "https://www.facebook.com/",
+  // },
+  // { iconName: "twitter", link: "https://twitter.com/" },
   {
-    iconName: "facebook",
-    link: "https://www.facebook.com/",
+    iconName: "linkedIn",
+    link: "https://www.linkedin.com/in/kristen-reid-a4b499202/",
   },
-  { iconName: "twitter", link: "https://twitter.com/" },
+  // { iconName: "dribbble", link: "https://dribbble.com/" },
   {
-    iconName: "instagram",
-    link: "https://www.instagram.com/",
-  },
-  { iconName: "dribbble", link: "https://dribbble.com/" },
-  {
-    iconName: "tik-tok",
+    iconName: "github",
     link: "https://www.tiktok.com/",
   },
 ];

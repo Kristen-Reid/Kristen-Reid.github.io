@@ -8,7 +8,7 @@ const Slider = () => {
           <div
             className="image"
             style={{
-              backgroundImage: `url(${  
+              backgroundImage: `url(${
                 process.env.PUBLIC_URL + "/img/about/20200817_161917.jpg"
               })`,
             }}
@@ -30,8 +30,27 @@ const Slider = () => {
                 Full-Stack Software Engineer
                 <span className="overlay_effect"></span>
               </span>
+              <div className="social_connect_container">
+                <div className="social_connect">
+                      <a href="https://www.linkedin.com/in/kristen-reid-a4b499202/">
+                        <img src="/img/svg/social/linkedIn.svg" width="30" height="30"/>
+                      </a>
+                    </div>
+                    <div className="social_connect">
+                      <a href="https://github.com/Kristen-Reid">
+                        <img src="/img/svg/social/github.svg" width="30" height="30"/>
+                      </a>
+                    </div>
+                    <div className="social_connect">
+                      <a href="mailto:kristen.reid.swe@gmail.com">
+                    <img src="/img/svg/email.svg" width="30" height="30" />
+                    {/* :&nbsp; kristen.reid.swe@gmail.com */}
+                      </a>
+                    </div>
+                  </div>
             </div>
             {/* End designation */}
+
           </div>
           {/* End content */}
 

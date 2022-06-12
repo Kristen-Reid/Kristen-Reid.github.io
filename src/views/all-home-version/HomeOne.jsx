@@ -23,15 +23,6 @@ const HomeOne = () => {
       <About />
       {/* End About Section */}
 
-      <Portfolio />
-      {/* End Portfolio Section */}
-
-      <Skills />
-      {/* End Skills Section */}
-
-      <Video />
-      {/* End Video Section */}
-
       <div className="shane_tm_section">
         <div className="shane_tm_partners">
           <div className="container">
@@ -41,32 +32,59 @@ const HomeOne = () => {
           </div>
         </div>
       </div>
+
+      <Portfolio />
+      {/* End Portfolio Section */}
+
+      {/* <Skills /> */}
+      {/* End Skills Section */}
+
+      {/* <Video /> */}
+      {/* End Video Section */}
+
       {/* End shane_tm_partners */}
 
-      <div className="shane_tm_section">
+      {/* <div className="shane_tm_section">
         <div className="shane_tm_testimonials">
           <div className="container">
             <div className="testimonials_inner">
               <div className="left">
+              </div>
                 <div className="shane_tm_title">
-                  <span>Testimonials</span>
-                  <h3>What clients say about my portfolio template</h3>
+                  <span>Socials</span>
+                  <h3>Let's connect!!</h3>
+                  <div className="social_connect_container">
+                    <div className="social_connect">
+                      <a href="https://www.linkedin.com/in/kristen-reid-a4b499202/">
+                        <img src="/img/svg/social/linkedIn.svg"/>
+                      </a>
+                    </div>
+                    <div className="social_connect">
+                      <a href="https://github.com/Kristen-Reid">
+                        <img src="/img/svg/social/github.svg"/>
+                      </a>
+                    </div>
+                    <div className="social_connect">
+                      <a href="mailto:kristen.reid.swe@gmail.com">
+                        <img src="/img/svg/email.svg" width="50" height="50" />
+                      </a>
+                    </div>
+                  </div>
                 </div>
-              </div>
 
-              <div className="right">
+              {/* <div className="right">
                 <Testimonial />
-              </div>
-            </div>
+              </div> */}
+            {/* </div>
           </div>
-        </div>
-      </div>
+        </div> */}
+      {/* </div> */} 
       {/* End  shane_tm_testimonials*/}
 
-      <News />
+      {/* <News /> */}
       {/* End Blog Section */}
 
-      <CallToAction />
+      {/* <CallToAction /> */}
       {/* End CallToAction */}
 
       <Footer />

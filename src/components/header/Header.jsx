@@ -27,7 +27,7 @@ const Header = () => {
               <img src="/img/logo/new/dark.png" alt="partners brand" />
             </NavLink>
           </div> */}
-          {/* End logo */}  
+          {/* End logo */}
           <div className="menu">
             <Scrollspy
               className="anchor_nav"
@@ -44,12 +44,12 @@ const Header = () => {
               <li>
                 <a href="#portfolio">Portfolio</a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#news">News</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
-              </li>
+              </li> */}
               {/* <li>
                 <a
                   className="white-fill-bg btn-outline btn_sm"

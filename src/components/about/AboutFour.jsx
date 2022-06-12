@@ -1,4 +1,5 @@
 import React from "react";
+import PDF from '../../PDF/Resume-SWE 2022.pdf'
 
 const AboutFour = () => {
   return (
@@ -39,8 +40,8 @@ const AboutFour = () => {
                   </p>
                 </div>
                 <div className="shane_tm_button">
-                  <a href="img/resume/resume.jpg" download>
-                    Download CV
+                  <a href={PDF} >
+                    View Resume
                   </a>
                 </div>
               </div>
