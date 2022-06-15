@@ -78,7 +78,7 @@ const HomeOne = () => {
             {/* </div>
           </div>
         </div> */}
-      {/* </div> */} 
+      {/* </div> */}
       {/* End  shane_tm_testimonials*/}
 
       {/* <News /> */}
