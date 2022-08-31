@@ -53,36 +53,36 @@ const tabListContent = [
   {
     porftoliItems: [
       {
-        img: "22",
-        title: "Shane Design",
-        meta: "Design",
+        img: "ToTheMoon",
+        title: "To The Moon",
+        meta: "React/Python",
         portfolioLink:
-          "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
+          "https://tothemoon-investment-app.herokuapp.com/",
       },
       {
-        img: "7",
-        title: " Sweet Cherry",
-        meta: "Photography",
-        portfolioLink:
-          "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
+        img: "Anstagram",
+        title: "Anstagram",
+        meta: "React/Python",
+        portfolioLink: "https://anstagram-ag.herokuapp.com/login",
       },
     ],
   },
   {
     porftoliItems: [
       {
-        img: "1",
-        title: " My Story",
-        meta: "Design",
-        portfolioLink: "https://www.instagram.com/",
-      },
-      {
-        img: "2",
-        title: "Design Trend",
-        meta: "Branding",
+        img: "CoolDigs",
+        title: "CoolDigs",
+        meta: "React/Express",
         portfolioLink:
-          "https://dribbble.com/shots/16545341-Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
+          "https://cooldigs.herokuapp.com/",
       },
+      // {
+      //   img: "2",
+      //   title: "Design Trend",
+      //   meta: "Branding",
+      //   portfolioLink:
+      //     "https://dribbble.com/shots/16545341-Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
+      // },
     ],
   },
   {
