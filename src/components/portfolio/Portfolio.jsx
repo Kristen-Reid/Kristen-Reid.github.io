@@ -26,7 +26,7 @@ const tabListContent = [
         title: "CoolDigs",
         meta: "React/Express",
         portfolioLink:
-          "https://cooldigs.herokuapp.com/",
+          "https://cooldigs.herokuapp.com",
       },
       // {
       //   img: "22",
