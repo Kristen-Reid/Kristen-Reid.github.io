@@ -73,9 +73,9 @@ const Header = () => {
           <div className="container bigger">
             <div className="topbar_in">
               <div className="logo">
-                <NavLink to="/">
+                {/* <NavLink to="/">
                   <img src="/img/logo/new/dark.png" alt="partners brand" />
-                </NavLink>
+                </NavLink> */}
               </div>
               {/* End logo */}
               <div className="my_trigger" onClick={handleClick}>
@@ -117,7 +117,7 @@ const Header = () => {
                     Portfolio
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#news" onClick={handleClick} className='nav-links'>
                     News
                   </a>
@@ -126,7 +126,7 @@ const Header = () => {
                   <a href="#contact" onClick={handleClick} className='nav-links'>
                     Contact
                   </a>
-                </li>
+                </li> */}
                 {/* <li>
                   <a
                     className="white-fill-bg btn-outline btn_sm"
@@ -138,9 +138,9 @@ const Header = () => {
                   </a>
                 </li> */}
               </ul>
-              <div className="social-menu">
+              {/* <div className="social-menu">
                 <Social />
-              </div>
+              </div> */}
               {/* End social share */}
             </div>
           </div>

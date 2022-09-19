@@ -19,8 +19,11 @@ const Footer = () => {
 
               </p>
             </div>
+
             {/* End inner */}
+
           </div>
+
         </div>
         {/* End shane_tm_copyright */}
       </div>
