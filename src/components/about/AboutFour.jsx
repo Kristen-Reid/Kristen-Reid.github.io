@@ -44,7 +44,7 @@ const AboutFour = () => {
                 </div>
                 <div className="shane_tm_button">
                   <a href={PDF} >
-                    View Resume
+                    Download CV
                   </a>
                 </div>
               </div>
