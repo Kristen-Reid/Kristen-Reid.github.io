@@ -33,7 +33,7 @@ const Slider = () => {
               <div className="social_connect_container">
                 <div className="social_connect">
                       <a href="https://www.linkedin.com/in/kristen-reid-a4b499202/">
-                        <img src="/img/svg/social/linkedIn.svg" width="30" height="30"/>
+                        <img src="/img/svg/social/linkedIn2.svg" width="30" height="30"/>
                       </a>
                     </div>
                     <div className="social_connect">
@@ -43,7 +43,7 @@ const Slider = () => {
                     </div>
                     <div className="social_connect">
                       <a href="https://angel.co/u/kristen-reid-5">
-                    <img src="/img/svg/social/angellist 2.svg" width="30" height="30" />
+                    <img src="/img/svg/social/angellist.svg" width="30" height="30" />
                       </a>
                     </div>
                     <div className="social_connect">
