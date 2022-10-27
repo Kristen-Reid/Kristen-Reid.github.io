@@ -27,7 +27,7 @@ const Slider = () => {
 
             <div className="job_wrap">
               <span className="job">
-                Full-Stack Software Engineer
+                Full Stack Software Engineer
                 <span className="overlay_effect"></span>
               </span>
               <div className="social_connect_container">

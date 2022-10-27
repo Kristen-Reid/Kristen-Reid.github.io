@@ -27,7 +27,7 @@ const AboutFour = () => {
               <div className="right">
                 <div className="shane_tm_title">
                   <span>About Me</span>
-                  <h3>Creative Independent Full-Stack Software Engineer based in Detroit</h3>
+                  <h3>Creative Independent Full Stack Software Engineer based in Detroit</h3>
                 </div>
                 <div className="text">
                   <p>
